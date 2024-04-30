@@ -1,8 +1,8 @@
-# 🚀 ¡Bienvenido a mi espacio en GitHub! 🚀
-
-
 <h1 align="center">Holaa 👋, Yo soy Pablo González Silva</h1>
 # 🚀 ¡Bienvenido a mi espacio en GitHub! 🚀
+
+
+
 <h3 align="center">¡Hola! Soy <b>Pablo González Silva</b>, un apasionado <b>Técnico Superior de Desarrollo de Aplicaciones Multitplataforma</b> y <b>Full Stack Junior</b> con experiencia y formación en una variedad de tecnologías relacionadas con el desarrollo web, programación, bases de datos y desarrollo de aplicaciones móviles.</h3>
 
 ---
@@ -26,6 +26,7 @@
 - CSS
 - JavaScript
 - TypeScript
+- Bootstrap
 - Angular
 
 ### Programación
@@ -33,10 +34,12 @@
 - Spring Boot, Spring, Spring Security
 - C#
 - Python
+- Unity
 
 ### Bases de Datos
 - MySQL
 - SQL Server
+- -SQLite
 
 ### Desarrollo de Aplicaciones Móviles
 - Android Studio
