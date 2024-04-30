@@ -42,4 +42,5 @@
 
 - [LinkedIn](https://www.linkedin.com/in/pablo-gonz%C3%A1lez-silva-/)
 - **Correo electrónico:** pablogonzalezsilva6@gmail.com
+  
 ¡Gracias por visitar mi perfil! 🌟
