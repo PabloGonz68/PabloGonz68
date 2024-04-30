@@ -42,5 +42,10 @@
 
 - [LinkedIn](https://www.linkedin.com/in/pablo-gonz%C3%A1lez-silva-/)
 - **Correo electrónico:** pablogonzalezsilva6@gmail.com
+
+- ### :fire: Mis estadísticas :
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloGonz68&layout=compact&theme=vision-friendly-dark" width="600"/>
+</div>
   
 ¡Gracias por visitar mi perfil! 🌟
