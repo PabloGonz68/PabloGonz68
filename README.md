@@ -53,6 +53,7 @@
 </p>
 
 - [LinkedIn](https://www.linkedin.com/in/pablo-gonz%C3%A1lez-silva-/)
+-  [![Linkedin Badge](https://img.shields.io/badge/-Hugo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-gonz%C3%A1lez-silva-/)
 - **Correo electrónico:** pablogonzalezsilva6@gmail.com
 
 - ### :fire: Mis estadísticas :
