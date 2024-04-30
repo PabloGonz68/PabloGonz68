@@ -1,5 +1,4 @@
-<h1 align="center">Holaa 👋, Yo soy Pablo González Silva</h1>
-# 🚀 ¡Bienvenido a mi espacio en GitHub! 🚀
+<h1 align="center">🚀 ¡Bienvenido a mi espacio en GitHub! 🚀</h1>
 
 
 
