@@ -6,7 +6,7 @@
 
 ## 📝 Sobre mí
 
-- 👨‍💻 **Actualmente trabajo como [tu puesto actual] en [tu empresa actual].**
+- 👨‍💻 **Actualmente estoy trabajando en prácticas como Desarrollador Full Stack en Hermes Interactiva.**
 - 🎓 **Graduado en Técnico Superior de Desarrollo de Aplicaciones Multitplataforma.**
 - 💼 **Experiencia y formación en Desarrollo Web, Programación, Desarrollo de Bases de Datos y Desarrollo de Aplicaciones Móviles.**
 
@@ -23,7 +23,7 @@
 
 ### Programación
 - Java
-- Spring Boot
+- Spring Boot, Spring, Spring Security
 - C#
 - Python
 
@@ -36,21 +36,10 @@
 
 ---
 
-## 🌟 Proyectos destacados
-
-Aquí encontrarás algunos de los proyectos en los que he trabajado recientemente:
-
-- [Proyecto 1](link_al_proyecto_1): Breve descripción del proyecto.
-- [Proyecto 2](link_al_proyecto_2): Breve descripción del proyecto.
-- [Proyecto 3](link_al_proyecto_3): Breve descripción del proyecto.
-
----
-
 ## 📞 Contacto
 
 ¡Me encantaría conectarme contigo! Puedes encontrarme en:
 
-- [LinkedIn](link_a_tu_perfil_de_LinkedIn)
-- **Correo electrónico:** tu_correo_electronico
-
+- [LinkedIn](https://www.linkedin.com/in/pablo-gonz%C3%A1lez-silva-/)
+- **Correo electrónico:** pablogonzalezsilva6@gmail.com
 ¡Gracias por visitar mi perfil! 🌟
