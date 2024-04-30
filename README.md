@@ -56,8 +56,6 @@
 - **Correo electrónico:** pablogonzalezsilva6@gmail.com
 
 - ### 📊Estadísticas de mis repositorios :
-![](https://github-readme-stats.vercel.app/api?username=PabloGonz68&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PabloGonz68&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloGonz68&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
   
-¡Gracias por visitar mi perfil! 🌟
+<h1 align="center">¡Gracias por visitar mi perfil! 🌟</h1>
