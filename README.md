@@ -1,5 +1,7 @@
 <h1 align="center">🚀 ¡Bienvenido a mi espacio en GitHub! 🚀</h1>
 
+![212741999-016fddbd-617a-4448-8042-0ecf907aea25](https://github.com/PabloGonz68/PabloGonz68/assets/136370074/8a9559bd-a3d1-4dfb-a078-270a41163ab5)
+
 <h3 align="center">¡Hola! Soy <b>Pablo González Silva</b>, un apasionado <b>Técnico Superior de Desarrollo de Aplicaciones Multitplataforma</b> y <b>Full Stack Junior</b> con un recorrido que abarca diversos aspectos del fascinante mundo del desarrollo. He tenido que sumergirme en un amplio abanico de tecnologías que van desde el desarrollo web hasta la programación, pasando por las bases de datos y el desarrollo de aplicaciones móviles. Esta experiencia y formación me han permitido adquirir habilidades sólidas y versátiles que me motivan a seguir explorando y creciendo en este emocionante campo.</h3>
 
 ---
