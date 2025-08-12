@@ -15,7 +15,7 @@
 ## 📝 Sobre mí
 
 - 👨‍💻 **Actualmente estoy trabajando en prácticas como Desarrollador Full Stack en Hermes Interactiva.**
-- 🎓 **Graduado en Técnico Superior de Desarrollo de Aplicaciones Multitplataforma y en Técnico Superior de Desarrollo de Aplicaciones Web** .** 
+- 🎓 **Graduado en Técnico Superior de Desarrollo de Aplicaciones Multitplataforma y en Desarrollo de Aplicaciones Web .** 
 - 💼 **Experiencia y formación en Desarrollo Web, Programación, Desarrollo de Bases de Datos y Desarrollo de Aplicaciones Móviles.**
  <div align="center">
   
