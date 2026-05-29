@@ -1,94 +1,83 @@
 <div align="center">
- 
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Bienvenido a mi GitHub &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
+# ⚡ Bienvenidos a mi espacio tecnológico ⚡
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+
+<h3 align="center">Soy <b>Pablo González Silva</b></h3>
+<h4 align="center">👨‍💻 Software Developer | 🛡️ Cybersecurity & Red/Blue Team Enthusiast</h4>
+
+<p align="center">
+  Aporto una base técnica sólida gracias a mi doble titulación (DAM y DAW), fusionada con una especialización avanzada en Ciberseguridad. Mi objetivo es desarrollar aplicaciones desde cero asegurando su rendimiento y aplicando seguridad desde el código fuente hasta la infraestructura. 
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta_conmigo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-gonz%C3%A1lez-silva-/)
+[![Mail](https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablogonzalezsilva6@gmail.com)
+
 </div>
 
+---
 
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/PabloGonz68/PabloGonz68/assets/136370074/8545ceac-e723-4e42-8aeb-e1acc26b5fa7)
+## 🚀 Sobre mí y mi enfoque de trabajo
 
-
-<h3 align="center">¡Hola! Soy <b>Pablo González Silva</b>, un apasionado <b>Técnico Superior de Desarrollo de Aplicaciones Multitplataforma</b> y <b>Full Stack Junior</b> con un recorrido que abarca diversos aspectos del fascinante mundo del desarrollo. He tenido que sumergirme en un amplio abanico de tecnologías que van desde el desarrollo web hasta la programación, pasando por las bases de datos y el desarrollo de aplicaciones móviles. Esta experiencia y formación me han permitido adquirir habilidades sólidas y versátiles que me motivan a seguir explorando y creciendo en este emocionante campo.</h3>
+- 🎯 **Perfil Híbrido:** Combino la agilidad del desarrollo **Full Stack** con la mentalidad analítica del hacking ético y el análisis forense.
+- 💡 **Soft Skills:** Alta capacidad de adaptación, iniciativa, creatividad, comunicación escrita clara, trabajo en equipo y resolución de incidentes bajo presión.
+- 🎓 **Mentalidad Autodidacta:** Si no conozco una tecnología, mi sólida base en Programación Orientada a Objetos me permite interiorizarla rápidamente y llevarla a producción.
 
 ---
 
+## 🛠️ Competencias y Stack Tecnológico
 
-## 📝 Sobre mí
+### 🛡️ Ciberseguridad & Sistemas (Red Team / Blue Team)
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white" />
+</p>
 
-- 👨‍💻 **Actualmente estoy trabajando en prácticas como Desarrollador Full Stack en Hermes Interactiva.**
-- 🎓 **Graduado en Técnico Superior de Desarrollo de Aplicaciones Multitplataforma y en Desarrollo de Aplicaciones Web .** 
-- 💼 **Experiencia y formación en Desarrollo Web, Programación, Desarrollo de Bases de Datos y Desarrollo de Aplicaciones Móviles.**
- <div align="center">
-  
-  ![octocat-1714634021074 (1) (1)](https://github.com/PabloGonz68/PabloGonz68/assets/136370074/73489430-155d-4830-a3f8-abf16d92f0c4)
+*   **Hacking Ético en Laboratorio:** Resolución de máquinas en CTFs (TryHackMe), escaneo y explotación en entornos controlados (Metasploitable, Nmap, Burp Suite).
+*   **Forense Digital:** Extracción y análisis de artefactos en volcados de memoria usando **Volatility**, **FTK Imager** y **Autopsy**.
+*   **Seguridad Defensiva (Blue Team):** Hardening básico de servidores, despliegue de firewalls perimetrales (OPNsense), autenticación en redes (RADIUS), buenas prácticas, documentación y análisis de incidentes.
 
- </div>
+### 💻 Desarrollo de Software (Full Stack)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Astro-2C2052?style=flat-square&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+</p>
 
+*   **Backend & APIs:** Arquitecturas empresariales robustas con **Java** y **Spring Boot** (Spring Security para endpoints seguros). Scripts de automatización y análisis con **Python**. Programación de lógica de servidor con PHP.
+*   **Frontend:** Construcción de interfaces responsivas y de alto rendimiento utilizando **Angular + TypeScript**, **React**, **Astro** y TailwindCSS.
 
+### 🗄️ Bases de Datos & Herramientas
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
 ---
 
+## 🔥 Últimos Proyectos y Laboratorios
 
+Aquí es donde aplico la teoría en entornos reales:
 
-## 🛠️ Tecnologías que manejo
+*   🌱 **E-commerce Kalpes:** Desarrollo y diseño completo de una plataforma de comercio electrónico independiente para cosmética natural, integrando **Astro**, **React** y pasarelas de **Shopify** para garantizar un rendimiento óptimo y una experiencia de usuario segura.
+*   🔒 **Laboratorios de Redes y Autenticación:** Implementación de servidores **RADIUS** y configuración avanzada de redes para asegurar el control de acceso corporativo, segmentando el tráfico y securizando la infraestructura.
+*   🕵️‍♂️ **Retos CTF & Análisis Forense:** Participación activa en plataformas de simulación resolviendo vectores de ataque comunes y practicando extracción de datos con Volatility.
+
+---
+
+## 📊 Mis Estadísticas en GitHub
+
 <div align="center">
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
+  <img src="https://komarev.com/ghpvc/?username=PabloGonz68&label=Visitas+al+perfil&color=0077B5&style=flat-square" alt="Contador de visitas" />
 </div>
-  <div align="center">
-   
-![212749168-86d6c7ab-98da-409b-998f-c5b74721badd (2)](https://github.com/PabloGonz68/PabloGonz68/assets/136370074/1fcf6b4b-9a8d-49d0-aea6-d30fb2f79755)
 
-
-
-  </div>
-
-### Desarrollo Web💻
-- Angular
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Bootstrap
-- Thymeleaf
-
-
-### Programación👨‍💻
-- Java
-- Spring Boot, Spring, Spring Security
-- C#
-- Python
-- Unity
-- .NET
-
-### Bases de Datos📚
-- MySQL
-- Microsoft SQL Server
-- SQLite
-
-### Desarrollo de Aplicaciones Móviles📱
-- Android Studio
-
- ### Diseño🖌️
-- Adobe Photoshop
-- Figma
-
-
----
-
-## 🌐 Contacto
-
-¡Me encantaría conectarme contigo! Puedes encontrarme en:
--  **Linkedin:** [![Linkedin Badge](https://img.shields.io/badge/-Pablo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-gonz%C3%A1lez-silva-/)
-- **Correo electrónico:** pablogonzalezsilva6@gmail.com
-
-- ### 📊Estadísticas de mis repositorios :
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloGonz68&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-  ---
-  ![212741999-016fddbd-617a-4448-8042-0ecf907aea25](https://github.com/PabloGonz68/PabloGonz68/assets/136370074/8a9559bd-a3d1-4dfb-a078-270a41163ab5)
-<h1 align="center">¡Gracias por visitar mi perfil! 🌟</h1>
-
-
-
-
+<br>
+<h3 align="center">¡Gracias por pasarte por mi repositorio! Si buscas un perfil técnico, adaptable y con iniciativa, no dudes en contactarme. 🚀</h3>
