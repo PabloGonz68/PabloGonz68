@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Bienvenidos a GitHub ⚡
+#  ¡Bienvenidos a GitHub! 
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
 
