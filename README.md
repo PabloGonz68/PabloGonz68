@@ -67,7 +67,7 @@
 
 Aquí es donde aplico la teoría en entornos reales:
 
-*   🌱 **E-commerce Kalpes:** Desarrollo y diseño completo de una plataforma de comercio electrónico independiente para cosmética natural, integrando **Astro**, **React** y pasarelas de **Shopify** para garantizar un rendimiento óptimo y una experiencia de usuario segura.
+*   🌱 **E-commerce:** Desarrollo y diseño completo de una plataforma de comercio electrónico independiente para cosmética natural, integrando **Astro**, **React** y pasarelas de **Shopify** para garantizar un rendimiento óptimo y una experiencia de usuario segura.
 *   🔒 **Laboratorios de Redes y Autenticación:** Implementación de servidores **RADIUS** y configuración avanzada de redes para asegurar el control de acceso corporativo, segmentando el tráfico y securizando la infraestructura.
 *   🕵️‍♂️ **Retos CTF & Análisis Forense:** Participación activa en plataformas de simulación resolviendo vectores de ataque comunes y practicando extracción de datos con Volatility.
 
